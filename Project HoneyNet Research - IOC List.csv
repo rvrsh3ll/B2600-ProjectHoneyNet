@@ -1,0 +1,50 @@
+HoneyPot,Type,Indicator,Date Observed,Threat,Purpose,ASN,GeoIP,JA4+ Fingerprint,Related Hashes
+SonicWall (Adam),Email,bang2013@atomicmail.io,03-11-2025,RondoDox,UserAgent,N/A,N/A,,
+SonicWall (Adam),IP,204.44.119.241,03-11-2025,RedTail,Exploit Source,"AS136258 - BrainStorm Network, Inc",USA,t13i170900_5b57614c22b0_78e6aca7449b,
+SonicWall (Adam),IP,134.209.157.35,03-11-2025,RedTail,Exploit Source,"AS14061 - DigitalOcean, LLC (DO-13)
+
+",USA,,
+SonicWall (Adam),IP,185.85.205.122,03-11-2025,RedTail,Exploit Source,AS201079 - HC3199-RIPE,Turkey,,
+SonicWall (Adam),IP,197.220.93.100,03-11-2025,RedTail,Exploit Source,AS37371 - AHA3-AFRINIC,Somalia,t13i170900_5b57614c22b0_78e6aca7449b,
+SonicWall (Adam),IP,74.194.191.52,03-11-2025,RondoDox,Payload Host,AS19108 - SUDDENLINK-COMMUNICATIONS,USA,,01ae333d518131775dfd3ab76832cb4796cda88630ba7b4b9ce2446ec9192b39
+SonicWall (Adam),IP,45.135.194.32,03-11-2025,RondoDox,Exploit Source,AS51396 - Pfcloud UG,Germany,,
+SonicWall (Adam),IP,124.92.50.95,03-11-2025,Mozi,Exploit Source,AS4837 - CHINA UNICOM China169 Backbone,China,,
+SonicWall (Adam),IP,43.252.231.122,03-11-2025,RedTail,Exploit Source,AS55933 - Cloudie Limited,Hong Kong,,
+SonicWall (Adam),URL,hxxp://74.194.191.52/rondo.pmy.sh,03-11-2025,RondoDox,Payload Host,AS19108 - SUDDENLINK-COMMUNICATIONS,USA,,
+SonicWall (Adam),URL,hxxp://74.194.191.52/rondo.wcr.sh,03-11-2025,RondoDox,Payload Host,AS19108 - SUDDENLINK-COMMUNICATIONS,USA,,
+SonicWall (Adam),URL,hxxp://74.194.191.52/rondo.wwc.sh,03-11-2025,RondoDox,Payload Host,AS19108 - SUDDENLINK-COMMUNICATIONS,USA,,
+SonicWall (Adam),URL,hxxp://74.194.191.52/rondo.sdu.sh,03-11-2025,RondoDox,Payload Host,AS19108 - SUDDENLINK-COMMUNICATIONS,USA,,
+SonicWall (Adam),URL,hxxp://74.194.191.52/rondo.fzr.sh,03-11-2025,RondoDox,Payload Host,AS19108 - SUDDENLINK-COMMUNICATIONS,USA,,
+SonicWall (Adam),URL,hxxp://74.194.191.52/rondo.qzj.sh,03-11-2025,RondoDox,Payload Host,AS19108 - SUDDENLINK-COMMUNICATIONS,USA,,
+SonicWall (Adam),URL,hxxp://74.194.191.52/rondo.qbq.sh,03-11-2025,RondoDox,Payload Host,AS19108 - SUDDENLINK-COMMUNICATIONS,USA,,
+SonicWall (Adam),URL,hxxp://124.92.50.95:59085/Mozi.a,03-11-2025,Mozi,Payload Host,AS4837 - CHINA UNICOM China169 Backbone,China,,
+SonicWall (Adam),IP,170.64.226.102,04-11-2025,Cisco ASA Checker,Scanner,"AS14061 - DigitalOcean, LLC",Australia,t12i130500_2d7513195f68_e51b7354d87f,
+SonicWall (Adam),IP,115.190.179.142,04-11-2025,RedTail,Exploit Source,AS137718 - YW7147-AP - gnoc@bytedance.com,China,,
+SonicWall (Adam),IP,188.166.166.243,04-11-2025,RedTail,Exploit Source,"AS14061 - PT7353-RIPE
+
+",Germany,t13i170900_5b57614c22b0_78e6aca7449b,
+SonicWall (Adam),IP,216.10.250.218,04-11-2025,RedTail,Exploit Source,AS394695 - PUBLIC-DOMAIN-REGISTRY,India,,
+SonicWall (Adam),IP,158.220.115.215,04-11-2025,RedTail,Exploit Source,"AS51167 - MH7476-RIPE
+
+",Germany,t13i170900_5b57614c22b0_78e6aca7449b,
+SonicWall (Adam),IP,178.128.115.238,04-11-2025,SystemBC Scanner,Scanner,"AS14061 - DigitalOcean, LLC",Singapore,,
+SonicWall (Adam),IP,137.184.164.90,04-11-2025,SystemBC Scanner,Scanner,"AS14061 - DigitalOcean, LLC",Canada,,
+SonicWall (Adam),IP,157.245.136.7,04-11-2025,SystemBC Scanner,Scanner,"AS14061 - DigitalOcean, LLC",USA,,
+Citrix (Nico),IP,219.71.91.175,04-11-2025,Mozi,Exploit Source,AS9416 - Hoshin Multimedia Center Inc.,Taiwan,,
+Citrix (Nico),URL,http://219.71.91.175:43157/Mozi.m,04-11-2025,Mozi,Payload Host,AS9416 - Hoshin Multimedia Center Inc.,Taiwan,,
+Citrix (Nico),IP,178.16.55.224,05-11-2025,RedTail,Payload Host,"AS209800 - metaspinner net GmbH
+",USA,,
+Citrix (Nico),IP,122.97.101.53,05-11-2025,RedTail,Exploit Source,AS4837 - CHINA UNICOM China169 Backbone,China,t13i170900_5b57614c22b0_78e6aca7449b,
+Citrix (Nico),IP,198.98.53.110,05-11-2025,RedTail,Exploit Source,AS53667 - FranTech Solutions,USA,,
+Citrix (Nico),IP,66.167.166.173,05-11-2025,Mozi,Exploit Source,AS9541 - Cyber Internet Services Pvt Ltd.,Pakistan,,
+Citrix (Nico),IP,175.107.2.184,05-11-2025,Mozi,Exploit Source,AS23888 - National Telecommunication Corporation HQ,Pakistan,,
+SonicWall (Adam),IP,45.153.34.156,05-11-2025,RondoDox,Exploit Source,AS51396 - Pfcloud UG,Netherlands,,
+PAN (Nico),IP,151.241.122.133,05-11-2025,Androxgh0st,Exploit Source,"AS174 - Cogent Communications, LLC",USA,,
+SonicWall (Adam),IP,124.198.132.107,05-11-2025,Androxgh0st,Exploit Source,"AS174 - Cogent Communications, LLC",USA,,
+Citrix (Nico),URL,http://178.16.55.224/sh,05-11-2025,RedTail,Payload Host,"AS209800 - metaspinner net GmbH
+",USA,,07b1d426ba3024b72a10fc7267675a6fb3a9a239565733f0f5166aadbb1594b1
+Citrix (Nico),IP,193.26.115.195,06-11-2025,RondoDox,Exploit Source,AS210558 - 1337 Services GmbH,UK,,
+Fortinet,IP,103.93.93.211,06-11-2025,Mozi,Exploit Source,AS141140 - PT Jinde Grup Indonesia,Indonesia,,
+PAN (Nico),IP,185.217.1.246,06-11-2025,CobaltStrike,SSH Brute Force,AS42237 - w1n ltd,Sweden,,
+Fortinet,URL,http://103.93.93.211:57493/Mozi.m,06-11-2025,Mozi,Payload Host,AS141140 - PT Jinde Grup Indonesia,Indonesia,,
+Fortinet,IP,34.63.215.108,07-11-2025,Androxgh0st,Exploit Source,AS396982 - Google LLC,USA,,
